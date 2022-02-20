@@ -477,6 +477,10 @@ h1, h2, h3, h4 {
     margin-left: 0px !important;
 }
   
+.about__data
+{
+    padding: 0px 0px !important;
+}
 }
 
  @media screen and (min-width: 568px){
@@ -750,7 +754,8 @@ a {
 
 .about__data
 {
- padding-top: 10px;
+ padding-top: 130px;
+ padding-left: 100px;
 }
 
 
